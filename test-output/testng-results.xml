@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-06T17:55:26 IST" name="Default suite" finished-at="2023-07-06T17:57:19 IST" duration-ms="112900">
+    <groups>
+    </groups>
+    <test started-at="2023-07-06T17:55:26 IST" name="Default test" finished-at="2023-07-06T17:57:19 IST" duration-ms="112900">
+      <class name="Test1.DeygaTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Test1.DeygaTest@52af26ee]" started-at="2023-07-06T17:55:26 IST" name="setup" finished-at="2023-07-06T17:55:32 IST" duration-ms="5842" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testing()[pri:0, instance:Test1.DeygaTest@52af26ee]" started-at="2023-07-06T17:55:32 IST" name="testing" finished-at="2023-07-06T17:57:19 IST" duration-ms="107033" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testing -->
+      </class> <!-- Test1.DeygaTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
